@@ -6,16 +6,25 @@
 [![GitHub release](https://img.shields.io/github/release/alibaba/druid.svg)](https://github.com/alibaba/druid/releases)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-简单说明
+## 简单说明
 ---
 
 - maven
 - git
 - jdk12
 
-说明文档
+## 说明文档
 ---
 
 - 中文 https://github.com/alibaba/druid/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98
 - English https://github.com/alibaba/druid/wiki/FAQ
 - Druid Spring Boot Starter https://github.com/alibaba/druid/tree/master/druid-spring-boot-starter
+
+## 参数说明
+---
+姓名|技能|排行
+--|:--:|--:
+刘备|哭|大哥
+关羽|打|二哥
+张飞|骂|三弟
+
